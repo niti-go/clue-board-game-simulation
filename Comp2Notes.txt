@@ -1,0 +1,30 @@
+Notes
+
+Your Cards:
+Rope
+Office
+Bathroom
+Pistol
+Col. Mustard
+Courtyard
+
+---------------Suspects-----------------
+Mrs. Peacock
+Prof. Plum
+Miss Scarlet
+Mrs. White
+Mr. Green
+
+----------------Weapons------------------
+Wrench
+Lead Pipe
+Dagger
+Candlestick
+
+-----------------Places------------------
+Living Room
+Garage
+Game Room
+Kitchen
+Dining Room
+Bedroom
